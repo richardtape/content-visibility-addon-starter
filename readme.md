@@ -22,6 +22,7 @@ Once you have performed the above 5 steps, you should be able to activate this p
 
 ## This add-on's files synopsis
 
+```
 ├── readme.md                                    # This readme file.
 ├── package.json                                 # Where dependencies are kept.
 ├── content-visibility-addon-starter.php         # The plugin's main file.
@@ -33,6 +34,7 @@ Once you have performed the above 5 steps, you should be able to activate this p
         └── editor.css                           # If you need admin styles, they're loaded from here.
 └── includes                                     #
     ├── content-visibility-addon-starter.php     # PHP loader file. Also where the rule logic is kept.
+```
 
 ## How Content Visibility add-ons work
 
