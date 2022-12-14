@@ -1,6 +1,6 @@
 {
   "name": "content-visibility-addon-starter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A starting point for building add-ons for Content Visibility",
   "main": "build/index.js",
   "scripts": {
@@ -20,7 +20,7 @@
   "author": "richardtape",
   "license": "GPL-2.0+",
   "devDependencies": {
-    "@wordpress/scripts": "14.0.1"
+    "@wordpress/scripts": "25.0.0"
   },
   "dependencies": {}
 }

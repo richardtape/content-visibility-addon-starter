@@ -3,16 +3,16 @@
  * Content Visibility Addon Starter
  *
  * @package     ContentVisibilityAddonStarter
- * @author      Richard Tape
- * @copyright   2021 Richard Tape
+ * @author      Rich Tape
+ * @copyright   2021 Rich Tape
  * @license     GPL-2.0+
  *
  * @wordpress-plugin
  * Plugin Name: Content Visibility Addon Starter
  * Plugin URI:  https://richardtape.com/content-visibility/
  * Description: [Content Visibility Add-On] Addon Starter.
- * Version:     0.1.0
- * Author:      Richard Tape
+ * Version:     0.1.1
+ * Author:      Rich Tape
  * Author URI:  https://richardtape.com
  * Text Domain: content-visibility-addon-starter
  * License:     GPL-2.0+
